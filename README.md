@@ -1,0 +1,2 @@
+# latihan
+javascrip dev fb
